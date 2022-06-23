@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  background-image: url(https://img.freepik.com/free-vector/star-sky-space-stars-background-glitter-particles_160081-317.jpg);
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 30px;
+overflow: hidden;
+background-color: #1363DF;
+}
+
+li {
+float: left;
+}
+
+li a {
+text-decoration: none;
+color: white;
+text-align: center;
+ padding: 30px 53.5px;
+font-size: 1.4rem;
+font-family: 'Potta One', cursive;
+}
+
+h1 {
+  font-family: 'Staatliches', cursive;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+p{
+  font-family: 'PT Sans', sans-serif;
+  padding: 20px;
+}
+
+li a:hover {
+  background-color:  #243A73;
+}
+
+.title {
+  text-align: left;
+}
+
+.crew {
+  margin-top: 40px;
+  text-align: right;
+}
+
+.cowboy {
+  position: absolute;
+  margin: 550px 800px 0 940px;
+}
+
+.op {
+  margin-left: 45px;
+  margin-top: 0px;
+}
+
+.spike {
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+}
+
+.spike-fight1 {
+  margin-left: 40px;
+}
+
+.spike-fight2 {
+  padding-left: 170px;
+}
+.spike-img {
+  padding-left: 205px;
+}
+
+.spike-story{
+  text-align: center;
+  color: white;
+  background-color: #06283D;
+}
+
+.spike-story p {
+  font-size: 1.25rem;
+}
+
+.spikepara1 {
+  width: 65%;
+  text-align: right;
+  padding-left: 540px;
+}
+
+.spikeseye {
+  float: left;
+  margin-left: 170px;
+  margin-top: 0px;
+}
+.spikep1 {
+  width: 75%;
+  text-align: left;
+  margin-left: 40px;
+}
+
+
+.julia {
+  float: right;
+  margin-right: 130px;
+  margin
+}
+
+.puffer{
+  margin-right: 530px;
+}
+.drippyaf{
+  color: #06283D;
+  float: left;
+  margin-left: 200px;
+  padding: 0;
+}
+
+.drippyaf:hover {
+  color: white;
+}
+
+.plot-right {
+  text-align: left;
+  margin-left: 45px;
+  width: 80%;
+  padding: 0;
+  line-height: 1.5;
+  background-color: #06283D;
+  color: white;
+
+}
